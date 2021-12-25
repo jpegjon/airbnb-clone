@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": true,
+  "javascript.format.enable": false,
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": { "javascript": "html" }
+}
